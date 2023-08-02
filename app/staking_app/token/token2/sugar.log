@@ -1,0 +1,3 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Neros-MacBook-Pro.local","pid":6520,"time":"2023-07-29T08:57:37.14392Z","target":"sugar","line":117,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"MissingFileError(\"config.json\")","level":50,"hostname":"Neros-MacBook-Pro.local","pid":6520,"time":"2023-07-29T08:57:37.144108Z","target":"sugar_cli::config::parser","line":21,"file":"src/config/parser.rs"}
+
